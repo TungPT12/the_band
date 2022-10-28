@@ -1,0 +1,9 @@
+1. header (thanh header)
+2. Navigation (phần điều hướng)(chứa các link)
+3. Breadcrumb (chỉ cho biết đang ở đâu như đường tệp)
+4. Sidebar (có thể coi là menu chứa cái list nó là thanh)
+5. Slider (nó trượt như slideshow)
+6. Content (phần nội dung)
+7. Footer (chân trang) (để lại logo, thông tin liên hệ,...)
+
+* Lớp phủ lên gọi là overlay (nguyên đóng đó là modal)
