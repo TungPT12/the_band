@@ -204,6 +204,7 @@ i.fa.fa-search {
     background-size: cover;
     overflow: hidden;
     position: relative;
+    transition: all 0.5s linear;
 }
 
 #slider .text-content {
